@@ -4,20 +4,21 @@ h1 {
 }
 body {
   margin: 0;
+  background: white;
 }
 
 .title-box {
-  margin-left: 20%;  
-  margin-top: 100px;  
+  margin-top: 100px;
+  margin-left: 22%;
   display: inline-block;
-  background-color: #2e7d32; 
-  padding: 10px 20px;
+  background-color: #2e7d32;
+  padding: 10px 18px;
 }
 
 .title-box h1 {
+  margin: 0;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 11px;
-  color: white;
-  margin: 0;
   font-weight: normal;
+  color: white;
 }
